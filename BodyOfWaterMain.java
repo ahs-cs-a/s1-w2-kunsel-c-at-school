@@ -11,7 +11,7 @@ public class BodyOfWaterMain {
         System.out.println(b1.name());
         System.out.println(b1.avgDepth());
 
-        b1.setNameAndLargestDiamter("Puddle", 2);
+        b1.setName("Puddle");
         System.out.println(b1.name());
     }
 }

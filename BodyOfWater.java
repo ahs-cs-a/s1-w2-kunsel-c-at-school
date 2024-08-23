@@ -17,8 +17,10 @@ public class BodyOfWater{
     }
 
     //Set method
-    public void setNameAndLargestDiamter(String n, double lD){
+    public void setName(String n){
         name = n;
+    }
+    public void setLargestDiamter(double lD){
         largestDiameter = lD;
     }
 
